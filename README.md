@@ -1,2 +1,2 @@
 # auride.github.io
-Personal website
+My personal website, https://auride.love
